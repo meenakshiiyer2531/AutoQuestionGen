@@ -17,10 +17,11 @@
 1. Clone the repository:
    ```bash
    git clone https://github.com/meenakshiiyer2531/AutoQuestionGen.git
-Install UiPath Studio if not already installed.
-Open the project in UiPath Studio.
-Customize the workflow as per your syllabus input format and desired paper pattern.
-Run the automation to generate the question paper.
-Usage
-Input: Syllabus and required question paper pattern.
-Output: Fully generated question paper in the desired format.
+2. Install UiPath Studio if not already installed.
+3. Open the project in UiPath Studio.
+4. Customize the workflow as per your syllabus input format and desired paper pattern.
+5. Run the automation to generate the question paper.
+
+## Usage
+- Input: Syllabus and required question paper pattern.
+- Output: Fully generated question paper in the desired format.
