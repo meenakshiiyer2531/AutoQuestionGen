@@ -16,7 +16,7 @@
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/meenakshiiyer2531/AutoQuestionGen.git](https://github.com/meenakshiiyer2531/AutoQuestionGen.git)
+   git clone https://github.com/meenakshiiyer2531/AutoQuestionGen.git
 Install UiPath Studio if not already installed.
 Open the project in UiPath Studio.
 Customize the workflow as per your syllabus input format and desired paper pattern.
